@@ -36,9 +36,10 @@ Before running this project, make sure you have:
 
 ### 1. Python Installed
 Download Python from:
-
-: winget install Python.Python.3   (Run in Command Prompt with admin permission)
-
+```bash
+ winget install Python.Python.3
+```
+(Run in Command Prompt with admin permission)
 Recommended version:
 
 ```bash
@@ -107,7 +108,7 @@ Replace with your actual GitHub repo link.
 ### Step 2: Open Project Folder
 
 ```bash
-cd SecureVault
+cd P-Mng
 ```
 
 ---
