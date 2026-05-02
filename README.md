@@ -1,4 +1,4 @@
-# SecureVault 🔐
+# P-Mng 🔐
 
 A Python-based GUI Password Manager built using Tkinter.
 
